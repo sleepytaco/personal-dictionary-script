@@ -1,6 +1,11 @@
 # Personal Dictionary App
 A simple python script to store as well as manage (add, delete, search) words and their meanings in a text file.
 
+# Features
+- Add word in the script or via command line
+- Delete word from the text file
+- Search and check if a word exists. If not, offers to add the word.
+
 # How it works
 The script stores words and their meanings in a textfile. It uses the sys module to handle command line arguments and the pyinputplus to handle input validation.
 
